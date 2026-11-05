@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+orbitguard/data/B2/*.csv
+orbitguard/data/*.zip
