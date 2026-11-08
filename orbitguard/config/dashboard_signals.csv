@@ -1,0 +1,144 @@
+apid,source_file,signal,subsystem,dashboard_section,plot_type,documentation_verified
+APID_40,APID_40_clean.csv,Wheel Accelaration 0 [rpm/s],ADCS / Actuators,Attitude,timeseries,False
+APID_40,APID_40_clean.csv,Wheel Accelaration 1 [rpm/s],ADCS / Actuators,Attitude,timeseries,False
+APID_40,APID_40_clean.csv,Wheel Accelaration 2 [rpm/s],ADCS / Actuators,Attitude,timeseries,False
+APID_40,APID_40_clean.csv,Wheel speed X [rpm],ADCS / Actuators,Attitude,timeseries,False
+APID_40,APID_40_clean.csv,Wheel speed Y [rpm],ADCS / Actuators,Attitude,timeseries,False
+APID_40,APID_40_clean.csv,Wheel speed Z [rpm],ADCS / Actuators,Attitude,timeseries,False
+APID_41,APID_41_clean.csv,Wheel speed X [rpm],ADCS / Actuators,Attitude,timeseries,False
+APID_41,APID_41_clean.csv,Wheel speed Y [rpm],ADCS / Actuators,Attitude,timeseries,False
+APID_41,APID_41_clean.csv,Wheel speed Z [rpm],ADCS / Actuators,Attitude,timeseries,False
+APID_41,APID_41_clean.csv,Receiving TNC quality byte [dB],Communications,Communications,timeseries,False
+APID_41,APID_41_clean.csv,TRX #0 signal strength [S],Communications,Communications,timeseries,False
+APID_41,APID_41_clean.csv,TRX #1 signal strength [S],Communications,Communications,timeseries,False
+APID_41,APID_41_clean.csv,TX baudrate [bps],Communications,Communications,timeseries,False
+APID_1,APID_1_clean.csv,Camera [mA],Status / Configuration,Housekeeping,state,False
+APID_1,APID_1_clean.csv,Payload Data Handling [mA],Status / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,ACS mode [],Mode / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,Antenna release #0 [],Status / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,Antenna release #1 [],Status / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,Camera [],Status / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,Payload data handling [],Status / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,Satellite mode [],Mode / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,Shadow flag [],Status / Configuration,Housekeeping,state,False
+APID_41,APID_41_clean.csv,inactive! [],Status / Configuration,Housekeeping,state,False
+APID_1,APID_1_clean.csv,3V3 bus [V],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,5V bus [V],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Battery #0 [V],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Battery #1 [V],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Charger #0 input [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Charger #0 output [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Charger #1 input [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Charger #1 output [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Solar array X+ [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Solar array X- [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Solar array Y+ [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Solar array Y- [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Solar array Z+ [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Solar array Z- [mA],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Solar array bus [V],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Battery #0 [V],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Battery #1 [V],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Charger #0 input [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Charger #0 output [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Charger #1 input [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Charger #1 output [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Solar array X+ [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Solar array X- [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Solar array Y+ [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Solar array Y- [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Solar array Z+ [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Solar array Z- [mA],Power / Electrical,Power,timeseries,False
+APID_2,APID_2_clean.csv,Solar array bus [V],Power / Electrical,Power,timeseries,False
+APID_4,APID_4_clean.csv,3V3 bus [V],Power / Electrical,Power,timeseries,False
+APID_4,APID_4_clean.csv,5V bus [V],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,3V3 bus [V],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,5V bus [V],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,5V main switch [],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Battery #0 [V],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Battery #1 [V],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Charger #0 input [mA],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Charger #0 output [mA],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Charger #1 input [mA],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Charger #1 output [mA],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Solar array X- [mA],Power / Electrical,Power,timeseries,False
+APID_41,APID_41_clean.csv,Solar array bus [V],Power / Electrical,Power,timeseries,False
+APID_1,APID_1_clean.csv,Gyro 0 [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_1,APID_1_clean.csv,Magnetic Field Sensor #0 [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_1,APID_1_clean.csv,Magnetic Field Sensor #1 [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_1,APID_1_clean.csv,Magnetic Field Sensor 0 [V],ADCS / Sensors,Sensors,timeseries,False
+APID_1,APID_1_clean.csv,Magnetic Field Sensor 1 [V],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Gyro #0 X [deg/s],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Gyro #0 Y [deg/s],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Gyro #0 Z [deg/s],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Gyro 0 [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #0 X [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #0 Y [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #0 Z [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #0 [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #1 X [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #1 Y [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #1 Z [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor #1 [mA],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor 0 [V],ADCS / Sensors,Sensors,timeseries,False
+APID_4,APID_4_clean.csv,Magnetic Field Sensor 1 [V],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,MAG_IF_X [nT],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,MAG_IF_Y [nT],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,MAG_IF_Z [nT],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,Sun Vector IF X [],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,Sun Vector IF Y [],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,Sun Vector IF Z [],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,Sun vector X [],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,Sun vector Y [],ADCS / Sensors,Sensors,timeseries,False
+APID_40,APID_40_clean.csv,Sun vector Z [],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Gyro #1 rate X mean [deg/s],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Gyro #1 rate Y mean [deg/s],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Gyro #1 rate Z mean  [deg/s],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Gyroscope #0 [],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Gyroscope #1 [],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Magnetic field sensor #0 [],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Magnetic field sensor #1 [],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Sun vector X [],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Sun vector Y [],ADCS / Sensors,Sensors,timeseries,False
+APID_41,APID_41_clean.csv,Sun vector Z [],ADCS / Sensors,Sensors,timeseries,False
+APID_1,APID_1_clean.csv,TRX #1 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Battery #0 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Battery #1 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Gyro X [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Gyro Y [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Gyro Z [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,MFS #0 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,MFS #1 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,OBC ext. ADC #0 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,OBC ext. ADC #1 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,OBC ext. ADC #2 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,PCU ext. ADC #0 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,PCU ext. ADC #1 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Solar Array X+ [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Solar Array X- [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Solar Array Y+ [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Solar Array Y- [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Solar Array Z+ [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Solar Array Z- [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,TRX #0 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,TRX #1 [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Wheel X [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Wheel Y [°C],Thermal,Thermal,timeseries,False
+APID_2,APID_2_clean.csv,Wheel Z [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,Gyro X [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,Gyro Y [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,Gyro Z [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,MFS #0 [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,MFS #1 [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,Wheel X [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,Wheel Y [°C],Thermal,Thermal,timeseries,False
+APID_4,APID_4_clean.csv,Wheel Z [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,Battery #0 [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,Battery #1 [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,MFS #0 [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,OBC ext. ADC #0 [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,PCU ext. ADC #0 [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,Temperature sensors [],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,Wheel X [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,Wheel Y [°C],Thermal,Thermal,timeseries,False
+APID_41,APID_41_clean.csv,Wheel Z [°C],Thermal,Thermal,timeseries,False
